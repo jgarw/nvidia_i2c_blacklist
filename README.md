@@ -10,6 +10,6 @@ The i2c timeour error looks like this:
 
 [   5.004772] ucsi_ccg 0-0008: ucsi_ccg_init failed - -110"
 
-In order for the script to function, it must be run with sudo priveledges because it needs to create and write to a file within /etc/modprobe.d
+In order for the script to function, it must be run with sudo privileges because it needs to create and write to a file within /etc/modprobe.d
 
 
